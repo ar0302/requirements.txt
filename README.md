@@ -1,0 +1,2 @@
+# requirements.txt
+Global market
